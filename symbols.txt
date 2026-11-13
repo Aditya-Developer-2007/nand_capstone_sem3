@@ -1,0 +1,12 @@
+Symbol	Address
+----------------
+LOOP	0
+BLACK	8
+DRAW	10
+ROW	18
+COL	26
+color	16
+rows	17
+addr	18
+cols	19
+p	20
